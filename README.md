@@ -31,4 +31,7 @@ https://user-images.githubusercontent.com/88231836/229581370-2624faf9-8aeb-4d89-
 
 The explanation of the code is on the word document submitted on our school side. The video is to show the overal code and find explanatuon of our school website for more information
 
+### How to run the document
+First you need to download precessing IDE, then you dont install it just run the "processing.exe". It will download or extract the file and open. After that copy and pass the provided code to and click play icon or button. Wait for it to run it the running time differs from computer to computer in teams of memory and ram. You will see the simulation environment with circular abstacle color in red. Add boids by left click (if you do move the cursor it will continue adding boids to the environemenr" and add obstacle by right click. Play around with the simulation and have fun.............
+
 
