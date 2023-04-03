@@ -1,7 +1,7 @@
 # AI-Boids
 Application of swarm intelligence in boids 
 ```mermaid
-graph TB:
+graph TB;
     AI-->SwarmIntelligence;
     AI-->Nature-inspired-algorithms;
     AI-->RainformentLearning;
@@ -28,6 +28,7 @@ https://user-images.githubusercontent.com/88231836/229580820-6132baa8-7151-4576-
 
 #### Overall Code
 https://user-images.githubusercontent.com/88231836/229581370-2624faf9-8aeb-4d89-b983-36760cc218ed.mp4
+
 The explanation of the code is on the word document submitted on our school side. The video is to show the overal code and find explanatuon of our school website for more information
 
 
