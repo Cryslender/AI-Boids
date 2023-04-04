@@ -159,24 +159,7 @@ class Boid {
     strokeWeight(2);
     }
   }
-  
-  // Define obstacle class
-  class Obstacle {
-  PVector position;      //variable to pinpot the obstacle's position
-  
-  Obstacle(float x, float y) {
-    position = new PVector(x, y);
-  }
-  //render the obstacles to the environment
-  void show() {
-    strokeWeight(1);
-    stroke(255, 0, 0);
-    point(position.x, position.y);
-    }
-  }
-  
   // Initialize arrays
-  
   ArrayList<Boid> boids;
   ArrayList<PVector> obstacles;
   int numObstacles = 60;        //number of obstacles
